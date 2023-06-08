@@ -1,7 +1,7 @@
 <!-- @format -->
 config 
 Set your username:
- `git config --global user.name "NAME" `
+ `git config --global user.name "NAME" ` <br> <br>
 Set your email address:
  `git config --global user.email "MY_NAME@example.com"`
 
