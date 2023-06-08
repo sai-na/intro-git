@@ -1,4 +1,11 @@
 <!-- @format -->
+config 
+Set your username:
+ `git config --global user.name "NAME" `
+Set your email address:
+ `git config --global user.email "MY_NAME@example.com"`
+
+
 
 1 . The `git add .` command is used to stage all changes in the current directory and its subdirectories for the next commit in Git
 
